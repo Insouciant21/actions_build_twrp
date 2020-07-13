@@ -7,7 +7,7 @@
   "use_own_dt": true,
   "dt_url": "OrangeFox/device/vince",
   "dt_branch": "fox_9.0",
-  "dt_remote": "gitlab",
+  "dt_remote": "gitlab_source",
   "dt_path": "device/xiaomi/vince",
   "device_code": "vince",
   "fix_product": true,
