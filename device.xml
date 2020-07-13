@@ -1,3 +1,9 @@
 <manifest>
+  <remote  name="github"
+           fetch="https://github.com/" />
+
+  <remote  name="gitlab"
+           fetch="https://gitlab.com/" />
+
   <project name="dt_url" path="dt_path" remote="dt_remote" revision="dt_branch" />
 </manifest>
